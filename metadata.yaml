@@ -14,12 +14,17 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '7057'
     url: http://www.gutenberg.org/2009/agents/7057
+covers:
+- cover_type: archival
+  image_path: 69302-h/images/cover.jpg
 creator:
   editor:
     agent_name: Lefferts, Sara Tawney
     gutenberg_agent_id: '55205'
     url: http://www.gutenberg.org/2009/agents/55205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69302#Land-of-play-Verses-rhymes-stories
 gutenberg_issued: '2022-11-07'
 identifiers:
   gutenberg: '69302'
